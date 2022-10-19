@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mylamapi/static/css/main.81852aed.css",
+    "main.js": "/mylamapi/static/js/main.a75882bb.js",
+    "static/js/787.d5070e5e.chunk.js": "/mylamapi/static/js/787.d5070e5e.chunk.js",
+    "static/media/logo.svg": "/mylamapi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mylamapi/index.html",
+    "main.81852aed.css.map": "/mylamapi/static/css/main.81852aed.css.map",
+    "main.a75882bb.js.map": "/mylamapi/static/js/main.a75882bb.js.map",
+    "787.d5070e5e.chunk.js.map": "/mylamapi/static/js/787.d5070e5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81852aed.css",
+    "static/js/main.a75882bb.js"
+  ]
+}
